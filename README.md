@@ -1,5 +1,5 @@
 # fbTweet
-Introduction
+Introduction<br/>
 The main goal of the project is to develop a Social Web Application which features non-trivial usage of data through GAE Datastore. All the details like first_name, last_name, profile picture, user_id, status, time of the status posted are stored in the GAE Datastore. I used JSP, Java Servlets for main application and HTML, CSS, javascript for styling. I created a BitBucket remote repository to publish my source code.
 Purpose
 The purpose of the project is to learn practically how to use GAE Datastore with real-time applications by deploying the web application into Facebook through GAE and accessing GAE Datastore from the application. With this application, a user will be able to post tweets into the application, share the tweets onto his/her timeline and also can directly send a message to their friends. All the friends posted tweets in the application can be seen in Friends Page and whose tweet is viewed more times can be seen in TOP Tweets Page.
